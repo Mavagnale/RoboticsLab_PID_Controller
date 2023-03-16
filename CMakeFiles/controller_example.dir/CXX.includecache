@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mavagnale/rl_lab/repo_rl_lab/control_loop/src/control_loop.cpp
+control_loop.h
+/home/mavagnale/rl_lab/repo_rl_lab/control_loop/src/control_loop.h
+
+/home/mavagnale/rl_lab/repo_rl_lab/control_loop/src/control_loop.h
+iostream
+-
+fstream
+-
+boost/thread.hpp
+/home/mavagnale/rl_lab/repo_rl_lab/control_loop/src/boost/thread.hpp
+
